@@ -4,7 +4,7 @@ const int N = 0;
 
 int main()
 {
-    int num;
+    long long num;
     cin >> num;
     string s = to_string(num);
 
